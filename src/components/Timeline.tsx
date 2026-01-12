@@ -20,9 +20,11 @@ const timelineData: TimelineItem[] = [
     date: "Jan 2025 – Present",
     points: [
       "Owned a low-latency hybrid streaming data pipeline using Python and SQL delivering 10M+/hour, powering AI and data analytical workloads with 99.9% data availability.",
-      "Built batch and streaming pipelines with medallion layers, achieving 1-minute end-to-end latency and 40% scalability improvement.",
-      "Integrated low-latency and highly scalable ETL pipelines by ingesting data via Debezium and Kafka, transforming with Spark and Flink, loading into Snowflake and S3, processing millions of records/day with 3% consumer lag and 99.5% reduced operational issues.",
-      "Orchestrated pipelines with Airflow and Databricks jobs for scheduling, dependency management and failure recovery resulting in 99.8% reliability and improved operational stability."
+      "Built batch and streaming pipelines with medallion layers, achieving 1-minute end to end latency and 40% scalability improvement.",
+      "Integrated low-latency and highly scalable ETL pipelines by ingesting data via Debezium and Kafka, transforming with Spark and Flink loading into Snowflake and S3, processing millions of records/day with 3% consumer lag and 99.5% reduced operational issues.",
+      "Orchestrated pipelines with airflow and databricks jobs for scheduling, dependency management and failure recovery resulting 99.8% reliability and improved operational stability.",
+      "Optimized data pipelines by designing for replay, back-pressure handling, data quality validation and observability to ensure long-term scalability, driving sustainable enterprise-scale platform performance.",
+      "Led delivery using agile by collaborating with AI and ML engineers to unblock dependencies and align data solutions, improving cross-team adoption."
     ]
   },
   {
