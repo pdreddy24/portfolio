@@ -19,12 +19,10 @@ const timelineData: TimelineItem[] = [
     subtitle: "Frisco, Texas | Keyphase",
     date: "Jan 2025 – Present",
     points: [
-      "Owned a low-latency hybrid streaming data pipeline using Python and SQL delivering 10M+/hour, powering AI and data analytical workloads with 99.9% data availability.",
-      "Built batch and streaming pipelines with medallion layers, achieving 1-minute end to end latency and 40% scalability improvement.",
-      "Integrated low-latency and highly scalable ETL pipelines by ingesting data via Debezium and Kafka, transforming with Spark and Flink loading into Snowflake and S3, processing millions of records/day with 3% consumer lag and 99.5% reduced operational issues.",
-      "Orchestrated pipelines with airflow and databricks jobs for scheduling, dependency management and failure recovery resulting 99.8% reliability and improved operational stability.",
-      "Optimized data pipelines by designing for replay, back-pressure handling, data quality validation and observability to ensure long-term scalability, driving sustainable enterprise-scale platform performance.",
-      "Led delivery using agile by collaborating with AI and ML engineers to unblock dependencies and align data solutions, improving cross-team adoption."
+      "Built and managed hybrid batch and streaming pipelines processing 10M+ events/hour with 99.9% availability, supporting AI and analytics workloads with 1-minute end-to-end latency and 40% improved scalability.",
+      "Ingested data via Debezium and Kafka, transformed with Spark and Flink, and loaded into Snowflake and S3—handling millions of records/day with 3% consumer lag and 99.5% reduction in operational issues.",
+      "Managed pipelines with Airflow and Databricks, implementing scheduling, dependency handling, and failure recovery, achieving 99.8% reliability and operational stability.",
+      "Designed pipelines with replay, back-pressure handling, and data quality checks. Collaborated with AI/ML teams to unblock dependencies, align solutions, and improve cross-team adoption."
     ]
   },
   {
