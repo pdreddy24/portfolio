@@ -37,7 +37,7 @@ function Project() {
                 <p>Built a clickstream processing pipeline using Kafka, Debezium, MongoDB, S3, and PySpark to capture, process, and analyze user interaction data at scale.</p>
             </div>
             <div className="project">
-                <a href="https://github.com/pdreddy24/Video_summary_llama_model" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/pdreddy24/Video_summary_llama_model" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/pdreddy24/Video_summary_llama_model" target="_blank" rel="noreferrer"><h2>Video Summary</h2></a>
                 <p>Built a video summarization tool using LLaMA that automatically generates concise summaries from video content for quick insights.</p>
             </div>

@@ -25,7 +25,7 @@ const labelsDevOps = [
 ];
 const labelsAI = [
     "LangChain", "OpenAI API", "Hugging Face",
-    "Qdrant", "Groq", "RAG pipelines", "Agent orchestration"
+    "Qdrant", , "RAG pipelines", "Agent orchestration"
 ];
 
 function ExpertiseDataEngineering() {
