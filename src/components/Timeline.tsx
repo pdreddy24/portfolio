@@ -31,13 +31,13 @@ const timelineData: TimelineItem[] = [
     subtitle: "Hyderabad, India | Eden Software & Consulting Inc., Client: CallHealth",
     date: "Oct 2021 – Nov 2023",
     points: [
-      "Designed pipelines using Azure Data Factory, Azure Databricks (PySpark) and Snowflake, handling large data volumes with strong SLAs and improved data availability across analytics systems.",
-      "Built Snowflake fact and dimension models with Azure Databricks optimizations, clustering, and partitioning, improving dashboard performance by 40%.",
-      "Automated ingestion and orchestration with ADF triggers and Azure Functions, cutting manual effort by 90% and implementing incremental SCD logic to reduce runtime by 30% and lower compute costs.",
-      "Implemented validation, monitoring, and security controls using Azure SQL/Synapse checks, Azure Monitor, Key Vault, and RBAC, proactively catching anomalies and meeting enterprise compliance standards.",
-      "Operated pipelines as production systems, standardizing CI/CD with GitHub Actions and Terraform, prioritizing data trust, schema drift handling, and cost efficiency, resulting in fewer reporting issues and higher stakeholder confidence."
+      "Designed and managed pipelines using Azure Data Factory, Azure Databricks (PySpark), and Snowflake, handling large datasets with strong SLAs and improved data availability across analytics systems.",
+      "Built Snowflake fact and dimension models with Databricks optimizations, clustering, and partitioning, boosting dashboard performance by 40%.",
+      "Streamlined data workflows with ADF triggers and Azure Functions, cutting manual effort by 90%, implementing incremental SCD logic to reduce runtime by 30%, and lowering compute costs.",
+      "Implemented validation, monitoring, and security with Azure Monitor, SQL/Synapse checks, Key Vault, and RBAC; standardized CI/CD using GitHub Actions and Terraform, improving data trust and stakeholder confidence."
+  
     ]
-  }
+  },
 ];
 
 function Timeline() {

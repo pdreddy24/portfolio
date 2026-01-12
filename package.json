@@ -2,11 +2,7 @@
   "name": "Deekshitha-Portfolio",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
   "homepage": "https://pdreddy24.github.io/portfolio",
-=======
-  "homepage": "https://pdreddy24.github.io/portfolio", 
->>>>>>> ba2482d (Updated portfolio content and optimized Azure pipeline section)
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
@@ -62,3 +58,4 @@
     "gh-pages": "^6.3.0"
   }
 }
+
