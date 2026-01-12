@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pdreddy24/portfolio/static/css/main.8301e754.css",
+    "main.js": "/pdreddy24/portfolio/static/js/main.76cda635.js",
+    "static/js/453.ce594d13.chunk.js": "/pdreddy24/portfolio/static/js/453.ce594d13.chunk.js",
+    "static/media/bg-light.png": "/pdreddy24/portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/pdreddy24/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock05.png": "/pdreddy24/portfolio/static/media/mock05.8c74ce8af9ce6f4a843d.png",
+    "static/media/mock06.png": "/pdreddy24/portfolio/static/media/mock06.4103ccd51e170d992c3a.png",
+    "static/media/mock03.png": "/pdreddy24/portfolio/static/media/mock03.4ceafd41a5729e3330ee.png",
+    "static/media/mock04.png": "/pdreddy24/portfolio/static/media/mock04.03b6abed4acc040db30b.png",
+    "static/media/mock02.png": "/pdreddy24/portfolio/static/media/mock02.15b7a2d3eee39e1c38eb.png",
+    "static/media/mock01.png": "/pdreddy24/portfolio/static/media/mock01.d0bccd1c09b6db844837.png",
+    "index.html": "/pdreddy24/portfolio/index.html",
+    "main.8301e754.css.map": "/pdreddy24/portfolio/static/css/main.8301e754.css.map",
+    "main.76cda635.js.map": "/pdreddy24/portfolio/static/js/main.76cda635.js.map",
+    "453.ce594d13.chunk.js.map": "/pdreddy24/portfolio/static/js/453.ce594d13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8301e754.css",
+    "static/js/main.76cda635.js"
+  ]
+}
